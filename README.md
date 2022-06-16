@@ -22,6 +22,7 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
   - [[slides](https://hpesonen.github.io/assets/presentations/pesonen_probAI2022_slides/index.html#0), [colab](https://colab.research.google.com/drive/1Dg9FZe07DJdGw5tZI5PIxNuAuszULsNP?usp=sharing)] - Henri Eerikki Pesonen - ELFI-tutorial
 
 * Day 5 (June 17):
-  - [[regression task](https://colab.research.google.com/drive/1jvJE-P0zye95ICSS5bG2qL35lpr63zxm?usp=sharing)], [[classification task](https://colab.research.google.com/drive/1d-7S7bsu8XE7rYikg5wuRkHyHZo8Pn8v?usp=sharing)] Yingzhen Li - Bayesian Neural Networks - Hands-on tutorial
+  - [[notes](day_5/5_yingzhen/notes.pdf)], [regression task: [colab](https://colab.research.google.com/drive/1jvJE-P0zye95ICSS5bG2qL35lpr63zxm?usp=sharing) / [notebook](day_5/5_yingzhen/regression.ipynb)], [classification task: [colab](https://colab.research.google.com/drive/1d-7S7bsu8XE7rYikg5wuRkHyHZo8Pn8v?usp=sharing) / [notebook](day_5/5_yingzhen/regression.ipynb)] Yingzhen Li - Bayesian Neural Networks - Hands-on tutorial
+
 
 ## [Info about PhD-course](https://github.com/DT8122/dt8122-2022)
