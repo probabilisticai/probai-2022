@@ -20,5 +20,7 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
 * Day 4 (June 16):
   - [[materials](https://onedrive.live.com/?authkey=%21AJSvUQkSLNITlrU&id=9D9AFECB41FCA080%21271190&cid=9D9AFECB41FCA080)] [[notebook](day_4/4_cagatay/ODE2VAE.ipynb), [colab](https://drive.google.com/file/d/1PjwNLeLCUcam9BjeddwDRDSyTIdX2h6o/view?usp=sharing)] - Cagatay Yildiz - NeuralODEs
 
+* Day 5 (June 17):
+  - [[regression task](https://colab.research.google.com/drive/1jvJE-P0zye95ICSS5bG2qL35lpr63zxm?usp=sharing)], [[classification task](https://colab.research.google.com/drive/1d-7S7bsu8XE7rYikg5wuRkHyHZo8Pn8v?usp=sharing)] Yingzhen Li - Bayesian Neural Networks - Hands-on tutorial
 
 ## [Info about PhD-course](https://github.com/DT8122/dt8122-2022)
