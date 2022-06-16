@@ -16,3 +16,6 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
 
 * Day 3 (June 15):
   - [[slides](day_3/3_didrik/nf_slides.pdf)], [[RealVNP task](day_3/3_didrik/realnvp.ipynb)], [[BNNs task](day_3/3_didrik/bnn.ipynb)][[Colab - RealVNP](https://colab.research.google.com/github/probabilisticai/probai-2022/blob/main/day_3/3_didrik/realnvp.ipynb)] Didrik Nielsen - Normalizing Flows
+
+* Day 4 (June 16):
+  - [[materials](https://onedrive.live.com/?authkey=%21AJSvUQkSLNITlrU&id=9D9AFECB41FCA080%21271190&cid=9D9AFECB41FCA080)] - Cagatay Yildiz - NeuralODEs
