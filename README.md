@@ -17,6 +17,7 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
 * Day 3 (June 15):
   - [[slides](day_3/3_rianne/Deep%20Generative%20Models_helsinki_15_6-2022_cut.pdf)] ‪Rianne van den Berg‬ - Deep Generative Models
   - [[slides](day_3/3_didrik/nf_slides.pdf)], [[RealVNP task](day_3/3_didrik/realnvp.ipynb), [solution](day_3/3_didrik/realnvp_solution.ipynb)], [[BNNs task](day_3/3_didrik/bnn.ipynb), [solution](day_3/3_didrik/bnn_solution.ipynb)], [[Colab - RealVNP](https://colab.research.google.com/github/probabilisticai/probai-2022/blob/main/day_3/3_didrik/realnvp.ipynb)] Didrik Nielsen - Normalizing Flows
+  - [[slides](day_3/3_arno/gps.pdf)] Arno Solin - Gaussian Processes
 
 * Day 4 (June 16):
   - [[materials](https://onedrive.live.com/?authkey=%21AJSvUQkSLNITlrU&id=9D9AFECB41FCA080%21271190&cid=9D9AFECB41FCA080)] [[notebook](day_4/4_cagatay/ODE2VAE.ipynb), [colab](https://drive.google.com/file/d/1PjwNLeLCUcam9BjeddwDRDSyTIdX2h6o/view?usp=sharing)] - Cagatay Yildiz - NeuralODEs
